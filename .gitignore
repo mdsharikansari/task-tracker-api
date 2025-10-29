@@ -1,0 +1,13 @@
+# Compiled code and built files
+/target/
+*.jar
+
+# IDE-specific files
+.idea/
+*.iml
+
+# Log files
+*.log
+
+# !!! CRITICAL: Ignore the file with our password !!!
+application.properties
